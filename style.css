@@ -1,0 +1,17 @@
+h1{
+
+    color: red; 
+}
+
+body{
+    
+    color:black;
+    font-family: arial;
+    background-color: #FE5F55;
+}   
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: #4F6367;
+    color: white;
+  }
